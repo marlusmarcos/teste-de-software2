@@ -1,0 +1,8 @@
+1. Verificar se o usuário preencheu com dados válidos
+2. verificar se já existe dados cadastrados iguais aos que ele cadastrou
+3. verificar se o nome não contém caracter especial
+4. verificar se a data é valida
+5. verificar cargo
+6. verificar cnh
+7. verificar CRM
+8. Verificr CPF 
