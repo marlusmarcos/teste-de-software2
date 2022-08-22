@@ -5,4 +5,5 @@
 5. verificar cargo
 6. verificar cnh
 7. verificar CRM
-8. Verificr CPF 
+8. Verificr CPF
+9. -- nacionalidade 
