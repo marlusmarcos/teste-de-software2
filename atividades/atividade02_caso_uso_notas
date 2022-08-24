@@ -1,0 +1,30 @@
+Aluno- Marlus Marcos
+
+Passo 1)
+Os elementos de interface que fazem parte dessa interface são:
+1. Disciplina do semestre
+2. Turma do semestre
+3. Alunos da turma 
+4. Nota1 do aluno
+5. Nota2 do aluno
+6. Frequencia do aluno
+7. Resultado
+
+
+Passo 2: Análise da Dependência entre os elementos
+
+* disciplina - turma - aluno
+
+* nota1 - nota2 - frequência - Resultado
+
+passo 3)
+
+* Disciplina: ativa/inativa
+
+* Turma: aberta/fechada
+
+* Aluno: matriculado/cancelado
+
+ 
+
+
