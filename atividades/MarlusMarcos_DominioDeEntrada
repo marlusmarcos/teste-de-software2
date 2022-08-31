@@ -1,0 +1,14 @@
+Considere a seguinte função:
+
+ 
+
+
+public double calculaMensalidadeEspecial ( int num_entradas,   int valor)
+
+
+num_entradas  ∈ [ 4, 6 ]
+
+valor ∈ [ 10, 99 ]
+
+
+Particione o domínio de entrada e defina os casos de testes para a função acima que atendam a este critério. Envie a resposta em formato pdf. Inclua casos de testes para o critério de análise do valor limite também.
