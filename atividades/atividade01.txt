@@ -6,4 +6,40 @@
 6. verificar cnh
 7. verificar CRM
 8. Verificr CPF
-9. -- nacionalidade 
+9. Verificar nacionalidade 
+
+
+1. A abordagem proposta no artigo é a única que existe para derivar casos de testes a partir de casos de uso? Justifique sua resposta com trecho do artigo.
+
+2. Quais os passos sugeridos no artigo para gerar casos de testes a partir de casos de uso?
+
+3. Qual o critério de testes utilizado para definir dados de entrada para as variáveis Nome e Data, e quais valores são propostos a partir da adoção deste critério?
+
+4. O que é proposto no artigo para lidar com dependência entre variáveis?
+
+5. Mostre os exemplos de dependências entre variáveis apresentadas no artigo e como dados de testes foram definidos para elas?
+
+6. Uma vez definidos valores de testes para os campos do caso de uso o artigo propõem que estes valores sejam combinados para "formar" os casos de testes (dados de entrada + resultado esperado). Quais as sugestões apresentadas no artigo no momento de se combinar os valores para formar os casos de testes?
+
+7. O artigo propõe uma abordagem *sistemática* para geração de casos de testes a partir de casos de uso. Os casos de testes apresentados no artigo são diferentes dos que vc pensou na ultima aula? Em quais pontos principais ela diferia da proposta? Em quais ela se assemelhou?
+
+----------------- respostas ----------------------
+************************************************************************************************************
+1) Não, ele recomenda por ser bem util e eficaz. Mas no seguinte parágrafo ele mostra que existem outras estrategias.
+Ao longo deste artigo iremos discu-
+tir uma possível estratégia indicando
+como testes podem ser obtidos a par-
+tir dos casos de uso especificados para
+um projeto. Entendemos que podem
+existir diferentes estratégias para isso,
+então iremos apresentar apenas uma
+possibilidade que pode ser facilmente
+aplicada para o teste de formulários de
+cadastro, normalmente existentes em
+sistemas de informação.
+************************************************************************************************************
+2) identificação dos elementos de interface, Analise de dependecia entre os elementos, Geração de Casos de uso de testes para grupos de elemenos, Análise dos resultados
+possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
+************************************************************************************************************
+3)
+
