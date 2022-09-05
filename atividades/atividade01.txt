@@ -6,7 +6,7 @@
 6. verificar cnh
 7. verificar CRM
 8. Verificr CPF
-9. Verificar nacionalidade 
+9. Verificar nacionalidade
 
 
 1. A abordagem proposta no artigo é a única que existe para derivar casos de testes a partir de casos de uso? Justifique sua resposta com trecho do artigo.
@@ -40,6 +40,35 @@ sistemas de informação.
 ************************************************************************************************************
 2) identificação dos elementos de interface, Analise de dependecia entre os elementos, Geração de Casos de uso de testes para grupos de elemenos, Análise dos resultados
 possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
-************************************************************************************************************
-3)
+*************************************************************************************************************
+3) critério de Particionamento em Classes de Equivalência. Vazio, aliro. 30/02/1980, 14/05/2007. 
+*************************************************************************************************************
+4) uma regra indicando que um campo só pode ser preenchido caso um outro campo tenha sido preenchido previamente.
+*************************************************************************************************************
+5) colocou valores nos limites
+*************************************************************************************************************
+6) Colocando valores 
+*************************************************************************************************************
+7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
