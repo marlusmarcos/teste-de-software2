@@ -25,18 +25,8 @@
 
 ----------------- respostas ----------------------
 ************************************************************************************************************
-1) Não, ele recomenda por ser bem util e eficaz. Mas no seguinte parágrafo ele mostra que existem outras estrategias.
-Ao longo deste artigo iremos discu-
-tir uma possível estratégia indicando
-como testes podem ser obtidos a par-
-tir dos casos de uso especificados para
-um projeto. Entendemos que podem
-existir diferentes estratégias para isso,
-então iremos apresentar apenas uma
-possibilidade que pode ser facilmente
-aplicada para o teste de formulários de
-cadastro, normalmente existentes em
-sistemas de informação.
+1) Não, ele recomenda por ser bem util e eficaz. Mas no seguinte parágrafo ele mostra que existem outras estrategias. Ao longo deste artigo iremos discutir uma possível estratégia indicando
+como testes podem ser obtidos a partir dos casos de uso especificados para um projeto. Entendemos que podem existir diferentes estratégias para isso, então iremos apresentar apenas uma possibilidade que pode ser facilmente aplicada para o teste de formulários de cadastro, normalmente existentes em sistemas de informação.
 ************************************************************************************************************
 2) identificação dos elementos de interface, Analise de dependecia entre os elementos, Geração de Casos de uso de testes para grupos de elemenos, Análise dos resultados
 possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
@@ -45,11 +35,13 @@ possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
 *************************************************************************************************************
 4) uma regra indicando que um campo só pode ser preenchido caso um outro campo tenha sido preenchido previamente.
 *************************************************************************************************************
-5) colocou valores nos limites
+5) O exemplo de de dependência de variável por exemplo foi para estrangeiro ou brasileiro, se precisava de cpf ou passaporte por exemplo, assim, iria atribuindo valores de acordo com cada variável que tivesse. 
 *************************************************************************************************************
-6) Colocando valores 
+6) A sugestão é fazer casos de testes que cubram todas as combinações possiveis para cobrir o máximo de testes possíveis. 
 *************************************************************************************************************
-7)
+7) a diferença foi que não pensei diretamente nos grupos, como por exemplo Naturalidade, CPF e Passaporte. mas nos casos de validações pensei de forma similar.
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
 
 
