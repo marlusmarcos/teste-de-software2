@@ -44,7 +44,34 @@ possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
 =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
 
+Passo 1)
+Os elementos de interface que fazem parte dessa interface são:
+1. Disciplina do semestre
+2. Turma do semestre
+3. Alunos da turma 
+4. Nota1 do aluno
+5. Nota2 do aluno
+6. Frequencia do aluno
+7. Resultado
 
+
+Passo 2: Análise da Dependência entre os elementos
+
+* disciplina - turma - aluno
+
+* nota1 - nota2 - frequência - Resultado
+
+passo 3) Geração de Casos de uso de testes para grupos de elemenos
+
+* Disciplina: ativa/inativa grafo de causa e efeito
+
+* Turma: aberta/fechada grafo de causa e efeito
+
+* Aluno: matriculado/aprovado/reprovado/cancelado grafo de causa e efeito
+
+* nota: 0 a 10 critério de Particionamento em Classes de Equivalência
+
+*Frequência: 0 a 100 critério de Particionamento em Classes de Equivalência
 
 
 
