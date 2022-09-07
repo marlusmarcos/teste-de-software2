@@ -1,6 +1,6 @@
-Considere a seguinte função:
+Marlus Marcos
 
- 
+Considere a seguinte função:
 
 
 public double calculaMensalidadeEspecial ( int num_entradas,   int valor)
@@ -12,3 +12,16 @@ valor ∈ [ 10, 99 ]
 
 
 Particione o domínio de entrada e defina os casos de testes para a função acima que atendam a este critério. Envie a resposta em formato pdf. Inclua casos de testes para o critério de análise do valor limite também.
+
+num_entradas = 4 5 6
+
+usando o critério de particionamento em classes de equivalência e análise do valor limite temos os valores: 9, 10, 50, 98, 99, 100.
+
+
+c1 num: 4 valores: 10, 50, 98,99 = válida
+c2 num: 5 valores: 10, 50, 51, 98,99 = válida
+c3 num: 6 valores: 10, 50, ,97, 51,98,99 = válida
+
+c4 num: 4 valores: 9, 50, 98,99 = inválida
+c5 num: 5 valores: 9,10, 50, 51, 98,99 = inválida
+c6 num: 6 valores: 9,10, 50, 51,98,99 = iválida

@@ -31,7 +31,7 @@ como testes podem ser obtidos a partir dos casos de uso especificados para um pr
 2) identificação dos elementos de interface, Analise de dependecia entre os elementos, Geração de Casos de uso de testes para grupos de elemenos, Análise dos resultados
 possíveis do caso de uso e Agrupamento dos Casos de Teste Gerados.
 *************************************************************************************************************
-3) critério de Particionamento em Classes de Equivalência. Vazio, aliro. 30/02/1980, 14/05/2007. 
+3) critério de Particionamento em Classes de Equivalência.
 *************************************************************************************************************
 4) uma regra indicando que um campo só pode ser preenchido caso um outro campo tenha sido preenchido previamente.
 *************************************************************************************************************
@@ -72,6 +72,7 @@ passo 3) Geração de Casos de uso de testes para grupos de elemenos
 * nota: 0 a 10 critério de Particionamento em Classes de Equivalência
 
 *Frequência: 0 a 100 critério de Particionamento em Classes de Equivalência
+
 
 
 
