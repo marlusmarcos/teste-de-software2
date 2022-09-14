@@ -1,0 +1,2 @@
+quando clicamos em escolher pagamento e selecionamos a opção de paypal, o site mostra um modal dizendo que está INDISPONÍVEL, quando clicamos em ok, o site não faz nada.
+quando fechamos o modal, ele aparece a opção de fazer pagamento com paypal, sendo que foi mostrado um modal ("indisponível")
