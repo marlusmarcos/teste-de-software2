@@ -1,17 +1,17 @@
-package selenium;
+package teste2;
+
 
 import java.time.Duration;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Teste {
+public class Seleniumteste {
 
 	private WebDriver driver;
 	private String baseUrl;
